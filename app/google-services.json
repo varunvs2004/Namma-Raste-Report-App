@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449683073045",
+    "project_id": "namma-raste-reporter-3c82c",
+    "storage_bucket": "namma-raste-reporter-3c82c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449683073045:android:79b73e5be6ece4bbba461c",
+        "android_client_info": {
+          "package_name": "com.example.nr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKRtAsYlXOGPja7L0UFHn3f84ECTL4zqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
