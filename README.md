@@ -26,32 +26,56 @@ app/
 ├── manifests/
 
 ├── firebase/
+
 └── ui/
 
 
 
 🚀 Features
+
 🔐 User Authentication using Firebase
+
 📍 Google Maps Integration
+
 🛣️ Road Issue Reporting System
+
 📷 Image Upload Support
+
 📝 Complaint Description Submission
+
 📂 Complaint History Tracking
+
 👨‍💼 Admin Monitoring Dashboard
+
 📌 Real-Time Location Tracking
+
 🔥 Firebase Realtime Database Integration
+
 📱 Modern Android UI Design
+
 🛠️ Technologies Used
+
 Technology	Purpose
+
 Kotlin	Android Development
+
 Java	Backend Logic
+
 Firebase Authentication	User Login/Register
+
 Firebase Realtime Database	Data Storage
+
 Firebase Storage	Image Upload
+
 Google Maps API	Location Tracking
+
 Android Studio	Development Environment
+
 XML	UI Design
+
+
 📱 Application Modules
+
 User Module
 User Registration
 User Login
