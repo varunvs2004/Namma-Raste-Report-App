@@ -18,10 +18,13 @@ The system allows users to upload complaint images, track issue locations in rea
 📂 Project Structure
 
 app/
+
 ├── java/
 
 ├── res/
+
 ├── manifests/
+
 ├── firebase/
 └── ui/
 
