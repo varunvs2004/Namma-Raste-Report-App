@@ -19,6 +19,7 @@ The system allows users to upload complaint images, track issue locations in rea
 
 app/
 ├── java/
+
 ├── res/
 ├── manifests/
 ├── firebase/
