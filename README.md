@@ -37,7 +37,10 @@ app/
 
 
 
+
 🚀 Features
+
+
 
 🔐 User Authentication using Firebase
 
