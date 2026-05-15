@@ -7,6 +7,7 @@ Namma Raste Report App is an Android-based civic issue reporting application dev
 The system allows users to upload complaint images, track issue locations in real-time using maps, and monitor complaint history. An integrated admin dashboard helps authorities manage and monitor all submitted reports efficiently.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Installation Steps 
 
 1. Clone the repository
