@@ -6,6 +6,26 @@ Namma Raste Report App is an Android-based civic issue reporting application dev
 
 The system allows users to upload complaint images, track issue locations in real-time using maps, and monitor complaint history. An integrated admin dashboard helps authorities manage and monitor all submitted reports efficiently.
 
+
+## Quick Setup Guide
+
+1. Clone the repository
+2. Open project in Android Studio
+3. Sync Gradle files
+4. Add Firebase configuration
+5. Run the application on emulator or device
+
+📂 Project Structure
+
+app/
+├── java/
+├── res/
+├── manifests/
+├── firebase/
+└── ui/
+
+
+
 🚀 Features
 🔐 User Authentication using Firebase
 📍 Google Maps Integration
@@ -40,6 +60,16 @@ Monitor All Complaints
 View Complaint Details
 Track Complaint Locations
 Manage Reports
+
+
+🔮 Future Enhancements
+
+- AI-based issue detection
+- Government authority integration
+- Push notifications
+- Real-time complaint status updates
+- Dark mode support
+
 
 📸 Application Screenshots
 
@@ -82,13 +112,7 @@ Run the application on emulator or Android device
 
 
 
-📂 Project Structure
-app/
- ┣ java/com/example/nr/
- ┣ res/
- ┣ AndroidManifest.xml
- ┣ Firebase Integration
- ┣ Google Maps Integration
+
  
 🎯 Problem Statement
 
@@ -96,14 +120,15 @@ Many civic issues such as potholes, damaged roads, garbage overflow, and streetl
 
 Namma Raste Report App provides a digital solution that allows citizens to instantly report issues with location and image proof, helping authorities respond more efficiently and improve public infrastructure management.
 
-🔮 Future Enhancements
 
-AI-Based Issue Detection
-Live Complaint Status Updates
-Push Notifications
-Multi-Language Support
-Government Portal Integration
-Analytics Dashboard
+## Common Issues & Fixes
+
+- Ensure Firebase is connected properly
+- Enable Google Maps API key
+- Use latest Android Studio version
+- Sync Gradle if dependencies fail
+
+
 
 👨‍💻 Developed By
 Varun VS
