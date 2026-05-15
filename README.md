@@ -7,15 +7,21 @@ Namma Raste Report App is an Android-based civic issue reporting application dev
 The system allows users to upload complaint images, track issue locations in real-time using maps, and monitor complaint history. An integrated admin dashboard helps authorities manage and monitor all submitted reports efficiently.
 
 
-##⚙️ Installation Steps 
+⚙️ Installation Steps 
 
 1. Clone the repository
 2. Open project in Android Studio
 3. Sync Gradle files
 4. Add Firebase configuration
-5. Run the application on emulator or device
+5. Connect Firebase Project
+6. Add Google Maps API Key
+7. Sync Gradle Files
+8. Run the application on emulator or  Android device 
+
+
 
 📂 Project Structure
+
 
 app/
 
@@ -113,6 +119,28 @@ Manage Reports
 
 
 
+🎯 Problem Statement
+
+Many civic issues such as potholes, damaged roads, garbage overflow, and streetlight failures are often not reported properly due to lack of an efficient communication platform between citizens and authorities.
+
+Namma Raste Report App provides a digital solution that allows citizens to instantly report issues with location and image proof, helping authorities respond more efficiently and improve public infrastructure management.
+
+
+
+## Common Issues & Fixes
+
+- Ensure Firebase is connected properly
+- Enable Google Maps API key
+- Use latest Android Studio version
+- Sync Gradle if dependencies fail
+
+
+
+👨‍💻 Developed By
+Varun VS
+Android App Development Internship Project
+
+
 
 
 📸 Application Screenshots
@@ -150,38 +178,7 @@ Admin Dashboard
 
 
 
-⚙️ Installation Steps
 
-Clone the repository
-Open project in Android Studio
-Connect Firebase Project
-Add Google Maps API Key
-Sync Gradle Files
-Run the application on emulator or Android device
-
-
-
-
- 
-🎯 Problem Statement
-
-Many civic issues such as potholes, damaged roads, garbage overflow, and streetlight failures are often not reported properly due to lack of an efficient communication platform between citizens and authorities.
-
-Namma Raste Report App provides a digital solution that allows citizens to instantly report issues with location and image proof, helping authorities respond more efficiently and improve public infrastructure management.
-
-
-## Common Issues & Fixes
-
-- Ensure Firebase is connected properly
-- Enable Google Maps API key
-- Use latest Android Studio version
-- Sync Gradle if dependencies fail
-
-
-
-👨‍💻 Developed By
-Varun VS
-Android App Development Internship Project
 
 📄 License
 This project is developed for educational and internship evaluation purposes.
