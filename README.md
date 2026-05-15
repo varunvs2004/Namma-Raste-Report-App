@@ -1,4 +1,5 @@
 Namma Raste Report App
+
 📌 Project Overview
 
 Namma Raste Report App is an Android-based civic issue reporting application developed using Kotlin, Java, Firebase, and Google Maps integration. The application enables users to report road-related problems such as potholes, garbage issues, damaged streetlights, and other public infrastructure complaints directly through their smartphones.
@@ -41,7 +42,9 @@ Track Complaint Locations
 Manage Reports
 
 📸 Application Screenshots
+
 Login Screen
+
 <img width="720" height="1600" alt="WhatsApp Image 2026-05-15 at 1 47 09 PM" src="https://github.com/user-attachments/assets/41366e41-9081-45ec-a87f-1db99e833c73" />
 
 <img width="706" height="1512" alt="WhatsApp Image 2026-05-15 at 1 47 09 PM (1)" src="https://github.com/user-attachments/assets/ff64677b-f14b-4d0a-b892-4ec651838765" />
@@ -69,12 +72,15 @@ Admin Dashboard
 
 
 ⚙️ Installation Steps
+
 Clone the repository
 Open project in Android Studio
 Connect Firebase Project
 Add Google Maps API Key
 Sync Gradle Files
 Run the application on emulator or Android device
+
+
 
 📂 Project Structure
 app/
