@@ -7,7 +7,7 @@ Namma Raste Report App is an Android-based civic issue reporting application dev
 The system allows users to upload complaint images, track issue locations in real-time using maps, and monitor complaint history. An integrated admin dashboard helps authorities manage and monitor all submitted reports efficiently.
 
 
-## Quick Setup Guide
+##⚙️ Installation Steps 
 
 1. Clone the repository
 2. Open project in Android Studio
@@ -77,17 +77,30 @@ XML	UI Design
 📱 Application Modules
 
 User Module
+
 User Registration
+
 User Login
+
 Submit Complaint
+
 Upload Complaint Image
+
 View Complaint History
+
 Map Location Selection
+
 Admin Module
+
 Monitor All Complaints
+
 View Complaint Details
+
 Track Complaint Locations
+
 Manage Reports
+
+
 
 
 🔮 Future Enhancements
@@ -97,6 +110,9 @@ Manage Reports
 - Push notifications
 - Real-time complaint status updates
 - Dark mode support
+
+
+
 
 
 📸 Application Screenshots
@@ -111,9 +127,11 @@ Login Screen
 
 Home Dashboard
 
+
 <img width="270" height="1115" alt="WhatsApp Image 2026-05-15 at 1 47 09 PM (2)" src="https://github.com/user-attachments/assets/58cd18b3-2bd7-43bc-8db4-7d6ba714f819" />
 
 Complaint Reporting Screen
+
 
 <img width="427" height="1280" alt="WhatsApp Image 2026-05-15 at 1 47 09 PM (3)" src="https://github.com/user-attachments/assets/75011aff-819c-4508-902e-03634f549ee8" />
 
@@ -121,12 +139,15 @@ Complaint Reporting Screen
 
 Map Integration
 
+
 <img width="706" height="1520" alt="WhatsApp Image 2026-05-15 at 2 03 53 PM" src="https://github.com/user-attachments/assets/15cebe8d-51a9-4bc9-9ddc-73f006e06af8" />
 
 
 Admin Dashboard
 
+
 <img width="231" height="1280" alt="WhatsApp Image 2026-05-15 at 1 47 10 PM (1)" src="https://github.com/user-attachments/assets/165407ca-0c26-4adf-af5f-37ec5f504e90" />
+
 
 
 ⚙️ Installation Steps
