@@ -6,6 +6,16 @@ Namma Raste Report App is an Android-based civic issue reporting application dev
 
 The system allows users to upload complaint images, track issue locations in real-time using maps, and monitor complaint history. An integrated admin dashboard helps authorities manage and monitor all submitted reports efficiently.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+🎯 Problem Statement
+
+Many civic issues such as potholes, damaged roads, garbage overflow, and streetlight failures are often not reported properly due to lack of an efficient communication platform between citizens and authorities.
+
+Namma Raste Report App provides a digital solution that allows citizens to instantly report issues with location and image proof, helping authorities respond more efficiently and improve public infrastructure management.
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Installation Steps 
@@ -126,14 +136,7 @@ Manage Reports
 - Real-time complaint status updates
 - Dark mode support
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-🎯 Problem Statement
-
-Many civic issues such as potholes, damaged roads, garbage overflow, and streetlight failures are often not reported properly due to lack of an efficient communication platform between citizens and authorities.
-
-Namma Raste Report App provides a digital solution that allows citizens to instantly report issues with location and image proof, helping authorities respond more efficiently and improve public infrastructure management.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
